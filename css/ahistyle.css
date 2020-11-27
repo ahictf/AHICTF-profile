@@ -529,7 +529,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 #award-box .award:hover .award-icon:before {
-    background: #39b3ff;
+    background:  #800000;
 }
 
 #award-box .award-content {
@@ -562,8 +562,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 #award-box .award:hover .award-content:before {
-    background: #39b3ff;
-    border-color: #39b3ff;
+    background:  #800000;
+    border-color: #800000;
 }
 
 #award-box .award-content:after {
@@ -580,7 +580,7 @@ section.resume-section .resume-item .resume-date {
     display: block;
     font-size: 15px;
     font-weight: 600;
-    color: #39b3ff;
+    color: #800000;
     margin: 0 0 8px;
     transition: all 0.3s ease 0s;
 }
@@ -597,7 +597,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 #award-box .award:hover .title {
-    color: #39b3ff;
+    color:  #800000;
 }
 
 #award-box .description {
